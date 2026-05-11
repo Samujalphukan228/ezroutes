@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "ezroutes",
+    "ezroutes-derive",
+]
+resolver = "2"

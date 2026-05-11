@@ -1,0 +1,14 @@
+[package]
+name = "ezroutes"
+version = "0.1.0"
+edition = "2024"
+description = "Zero-boilerplate Axum route definitions with middleware support"
+license = "MIT"
+repository = "https://github.com/Samujalphukan228/ezroutes"
+keywords = ["axum", "routes", "middleware", "web", "http"]
+categories = ["web-programming"]
+
+[dependencies]
+ezroutes-derive = { path = "../ezroutes-derive", version = "0.1.0" }
+axum = "0.7"
+tokio = { version = "1", features = ["full"] }
