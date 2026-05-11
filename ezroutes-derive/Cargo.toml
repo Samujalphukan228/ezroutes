@@ -1,10 +1,11 @@
 [package]
 name = "ezroutes-derive"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "Procedural macro for ezroutes"
 license = "MIT"
 repository = "https://github.com/Samujalphukan228/ezroutes"
+readme = "README.md"
 
 [lib]
 proc-macro = true
