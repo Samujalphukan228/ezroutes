@@ -7,8 +7,9 @@ license = "MIT"
 repository = "https://github.com/Samujalphukan228/ezroutes"
 keywords = ["axum", "routes", "middleware", "web", "http"]
 categories = ["web-programming"]
+readme = "README.md"
 
 [dependencies]
-ezroutes-derive = { path = "../ezroutes-derive", version = "0.1.0" }
+ezroutes-derive = "0.1.1"
 axum = "0.7"
 tokio = { version = "1", features = ["full"] }
