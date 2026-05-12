@@ -270,7 +270,7 @@ Cleaner, easier to scale, and significantly less boilerplate.
 
 | Component | Supported |
 |---|---|
-| Axum 0.7 | ✅ |
+| Axum 0.8 | ✅ |
 | Extractors | ✅ |
 | State | ✅ |
 | Middleware | ✅ |
